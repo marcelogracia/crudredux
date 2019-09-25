@@ -1,0 +1,19 @@
+{
+  "productos" : [
+    {
+        "id" :1,
+        "nombre" : "Aprediendo Redux",
+        "precio":30
+    },
+    {
+        "id" :2,
+        "nombre" : "Aprediendo ReactJS",
+        "precio":30
+    },
+    {
+        "id" :3,
+        "nombre" : "Aprediendo TypeScript",
+        "precio":30
+    }
+  ]  
+}
